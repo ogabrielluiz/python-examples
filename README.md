@@ -24,5 +24,9 @@ Use this repo to help each other learn, improve each others code and share your 
 
 - [Anshul](https://github.com/achoudh5)
 
+- [Kevin Vegda](https://github.com/kevin-v96)
+
+- [Thong Vo](https://github.com/ThongVoHien)
+
 - [Lampa](https://github.com/swetlana-spb)
 
