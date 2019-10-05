@@ -4,7 +4,7 @@ Use this repo to help each other learn, improve each others code and share your 
 
 ## Python & JavaScript Solutions
 - Fork this repo 
-- Add to either Python or JavaScript
+- Add something new to either Python or JavaScript within a new folder 
 - Add your name to the end of this Readme.md with a link to your GitHub
 
 ## Example Challenges
