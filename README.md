@@ -21,4 +21,5 @@ Use this repo to help each other learn, improve each others code and share your 
 
 ## Contributors
 - [Bambang Supriadi](https://github.com/bamsarts)
+- [Kevin Vegda](https://github.com/kevin-v96)
 
