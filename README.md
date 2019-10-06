@@ -30,3 +30,5 @@ Use this repo to help each other learn, improve each others code and share your 
 
 - [Lampa](https://github.com/swetlana-spb)
 
+- [Gabriel Almeida](https://github.com/ogabrielluiz)
+
